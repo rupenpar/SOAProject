@@ -31,13 +31,13 @@ The main objectives of MathSLM are:
 | ----- | ---------------- | ------------ |
 | 1     | 2420090050       | Rupen Parthu |
 | 2     | 2420090008       | Ankit Swami  |
-| 3     | 2420030635       | Nikhil Sai   |
+| 3     | 2420030177       | RASAGNA SAI  |
 
 The team member information is taken from the project abstract.
 
 ### Supervisor
 
-**Supervisor:** Dr. K Swanthana
+**Guide:** Dr. Srikanth Cherukuvada
 
 ---
 
@@ -336,8 +336,8 @@ KLH-cse-2026-2420030635-mathslm/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/NIKHILSAI4/KLH-cse-2026-2420030635-mathslm.git
-cd KLH-cse-2026-2420030635-mathslm
+git clone https://github.com/rupenpar/SOAProject
+cd SOAProject
 ```
 
 ### Step 2: Create a Python Virtual Environment
@@ -468,7 +468,7 @@ Team members:
 
 * Rupen Parthu — 2420090050
 * Ankit Swami — 2420090008
-* Nikhil Sai — 2420030635
+* Rasagna Sai — 2420030177
 
 Meaningful commits are maintained progressively throughout the project.
 
@@ -526,7 +526,7 @@ The project abstract identifies domain-specific language models, mathematical in
 
 1. **Rupen Parthu** — 2420090050
 2. **Ankit Swami** — 2420090008
-3. **Nikhil Sai** — 2420030635
+3. **Rasagna Sai** — 2420030177
 
 
 **Repository:** `KLH-cse-2026-2420030635-mathslm`
